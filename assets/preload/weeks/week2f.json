@@ -1,0 +1,44 @@
+{
+	"storyName": "Spooky Party!!",
+	"difficulties": "week2",
+	"weekBackground": "week2",
+	"hideFreeplay": false,
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Bittersweet",
+			"kids",
+			[
+				194,
+				111,
+				135
+			]
+		],
+		[
+			"Nightfall",
+			"kidshappy",
+			[
+				74,
+				91,
+				228
+			]
+		],
+		[
+			"Virus",
+			"virus",
+			[
+				34,
+				71,
+				68
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"weekName": "Week2f"
+}

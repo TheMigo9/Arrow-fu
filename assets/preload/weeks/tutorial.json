@@ -1,20 +1,26 @@
 {
+	"storyName": "Kevin",
+	"difficulties": "tutorial",
+	"weekBackground": "week1",
+	"hideFreeplay": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+		[
+			"tutorial",
+			"kevin",
+			[
+				255,
+				190,
+				40
+			]
+		]
 	],
-
 	"weekCharacters": [
 		"",
-		"bf",
-		"gf"
+		"",
+		""
 	],
-	"weekBackground": "stage",
-
-	"storyName": "",
-	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Tutorial"
 }

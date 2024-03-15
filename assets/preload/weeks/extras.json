@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"-debug",
+			"bidupixel",
+			[
+				66,
+				53,
+				135
+			]
+		],
+		[
+			"Earthquake",
+			"salsicha",
+			[
+				46,
+				93,
+				115
+			]
+		]
+		
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "extras",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "week3",
+	"startUnlocked": true
+}
