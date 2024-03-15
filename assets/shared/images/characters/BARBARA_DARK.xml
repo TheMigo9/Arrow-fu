@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BARBARA_DARK.png">
+<SubTexture name="BARBARA Cheer0000" x="0" y="0" width="703" height="717" frameX="0" frameY="0" frameWidth="706" frameHeight="720" />
+<SubTexture name="BARBARA Cheer0001" x="703" y="0" width="703" height="717" frameX="0" frameY="0" frameWidth="706" frameHeight="720" />
+<SubTexture name="BARBARA Cheer0002" x="1406" y="0" width="700" height="698" frameX="0" frameY="-19" frameWidth="706" frameHeight="720" />
+<SubTexture name="BARBARA Cheer0003" x="0" y="717" width="701" height="698" frameX="0" frameY="-19" frameWidth="706" frameHeight="720" />
+<SubTexture name="BARBARA Dancing Beat0000" x="1403" y="1415" width="703" height="646" frameX="0" frameY="-2" frameWidth="706" frameHeight="652" />
+<SubTexture name="BARBARA Dancing Beat0001" x="0" y="2063" width="703" height="643" frameX="0" frameY="-6" frameWidth="706" frameHeight="652" />
+<SubTexture name="BARBARA Dancing Beat0002" x="2106" y="0" width="701" height="646" frameX="0" frameY="-3" frameWidth="706" frameHeight="652" />
+<SubTexture name="BARBARA Dancing Beat0003" x="701" y="717" width="700" height="649" frameX="0" frameY="0" frameWidth="706" frameHeight="652" />
+<SubTexture name="BARBARA Dancing Beat0004" x="701" y="717" width="700" height="649" frameX="0" frameY="0" frameWidth="706" frameHeight="652" />
+<SubTexture name="BARBARA Dancing Beat0005" x="701" y="717" width="700" height="649" frameX="0" frameY="0" frameWidth="706" frameHeight="652" />
+<SubTexture name="BARBARA Dancing Beat0006" x="701" y="717" width="700" height="649" frameX="0" frameY="0" frameWidth="706" frameHeight="652" />
+<SubTexture name="BARBARA Dancing Beat0007" x="701" y="717" width="700" height="649" frameX="0" frameY="0" frameWidth="706" frameHeight="652" />
+<SubTexture name="BARBARA Dancing Beat0008" x="0" y="1415" width="703" height="648" frameX="0" frameY="-1" frameWidth="706" frameHeight="652" />
+<SubTexture name="BARBARA Dancing Beat0009" x="2106" y="646" width="701" height="645" frameX="0" frameY="-4" frameWidth="706" frameHeight="652" />
+<SubTexture name="BARBARA Dancing Beat0010" x="703" y="1415" width="700" height="648" frameX="0" frameY="-1" frameWidth="706" frameHeight="652" />
+<SubTexture name="BARBARA Dancing Beat0011" x="1401" y="717" width="700" height="649" frameX="0" frameY="0" frameWidth="706" frameHeight="652" />
+<SubTexture name="BARBARA Dancing Beat0012" x="701" y="717" width="700" height="649" frameX="0" frameY="0" frameWidth="706" frameHeight="652" />
+<SubTexture name="BARBARA Dancing Beat0013" x="701" y="717" width="700" height="649" frameX="0" frameY="0" frameWidth="706" frameHeight="652" />
+<SubTexture name="BARBARA Dancing Beat0014" x="701" y="717" width="700" height="649" frameX="0" frameY="0" frameWidth="706" frameHeight="652" />
+</TextureAtlas>

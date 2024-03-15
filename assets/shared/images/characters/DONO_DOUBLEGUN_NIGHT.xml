@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DONO_DOUBLEGUN_NIGHT.png">
+<SubTexture name="Dono Down Note0000" x="0" y="2940" width="635" height="497" frameX="0" frameY="-12" frameWidth="634" frameHeight="510" />
+<SubTexture name="Dono Down Note0001" x="3278" y="2070" width="620" height="508" frameX="-6" frameY="-1" frameWidth="634" frameHeight="510" />
+<SubTexture name="Dono Down Note0002" x="3278" y="1561" width="617" height="509" frameX="-6" frameY="0" frameWidth="634" frameHeight="510" />
+<SubTexture name="Dono Fail0000" x="3278" y="526" width="756" height="525" frameX="0" frameY="-2" frameWidth="762" frameHeight="527" />
+<SubTexture name="Dono Fail0001" x="3278" y="0" width="756" height="526" frameX="-7" frameY="-2" frameWidth="762" frameHeight="527" />
+<SubTexture name="Dono Fail0002" x="2405" y="2397" width="678" height="528" frameX="-20" frameY="0" frameWidth="762" frameHeight="527" />
+<SubTexture name="Dono Idle Dance0000" x="2639" y="1084" width="524" height="533" frameX="-14" frameY="-8" frameWidth="537" frameHeight="540" />
+<SubTexture name="Dono Idle Dance0001" x="2639" y="1617" width="536" height="532" frameX="0" frameY="-9" frameWidth="537" frameHeight="540" />
+<SubTexture name="Dono Idle Dance0002" x="2639" y="543" width="520" height="541" frameX="-15" frameY="0" frameWidth="537" frameHeight="540" />
+<SubTexture name="Dono NOTE LEFT0000" x="660" y="2397" width="581" height="531" frameX="0" frameY="0" frameWidth="598" frameHeight="531" />
+<SubTexture name="Dono NOTE LEFT0001" x="1241" y="2397" width="584" height="531" frameX="-15" frameY="-1" frameWidth="598" frameHeight="531" />
+<SubTexture name="Dono NOTE LEFT0002" x="1825" y="2397" width="580" height="531" frameX="-16" frameY="-1" frameWidth="598" frameHeight="531" />
+<SubTexture name="Dono Note Right0000" x="2639" y="0" width="639" height="543" frameX="0" frameY="0" frameWidth="659" frameHeight="542" />
+<SubTexture name="Dono Note Right0001" x="1727" y="1850" width="658" height="544" frameX="0" frameY="0" frameWidth="659" frameHeight="542" />
+<SubTexture name="Dono Note Right0002" x="0" y="2397" width="660" height="543" frameX="0" frameY="0" frameWidth="659" frameHeight="542" />
+<SubTexture name="Dono Note Up shoot0000" x="1737" y="0" width="902" height="573" frameX="0" frameY="0" frameWidth="913" frameHeight="574" />
+<SubTexture name="Dono Note Up shoot0001" x="0" y="1278" width="910" height="572" frameX="-7" frameY="-2" frameWidth="913" frameHeight="574" />
+<SubTexture name="Dono Note Up shoot0002" x="3278" y="1051" width="518" height="510" frameX="-7" frameY="-64" frameWidth="913" frameHeight="574" />
+<SubTexture name="Dono Out0000" x="1091" y="1850" width="636" height="544" frameX="0" frameY="-3" frameWidth="636" frameHeight="543" />
+<SubTexture name="Dono Out0001" x="0" y="1850" width="570" height="547" frameX="0" frameY="0" frameWidth="636" frameHeight="543" />
+<SubTexture name="Dono Up note0000" x="0" y="663" width="539" height="615" frameX="0" frameY="0" frameWidth="541" frameHeight="614" />
+<SubTexture name="Dono Up note0001" x="539" y="663" width="541" height="607" frameX="0" frameY="-8" frameWidth="541" frameHeight="614" />
+<SubTexture name="Dono Up note0002" x="1080" y="663" width="541" height="605" frameX="0" frameY="-10" frameWidth="541" frameHeight="614" />
+<SubTexture name="Dono hey0000" x="0" y="0" width="569" height="663" frameX="-12" frameY="0" frameWidth="585" frameHeight="662" />
+<SubTexture name="Dono hey0001" x="1154" y="0" width="583" height="625" frameX="-3" frameY="-38" frameWidth="585" frameHeight="662" />
+<SubTexture name="Dono hey0002" x="569" y="0" width="585" height="633" frameX="0" frameY="-30" frameWidth="585" frameHeight="662" />
+<SubTexture name="Dono mic0000" x="1737" y="573" width="523" height="551" frameX="-1" frameY="0" frameWidth="524" frameHeight="550" />
+<SubTexture name="Dono mic0001" x="910" y="1278" width="523" height="551" frameX="0" frameY="0" frameWidth="524" frameHeight="550" />
+<SubTexture name="Dono mic0002" x="910" y="1278" width="523" height="551" frameX="0" frameY="0" frameWidth="524" frameHeight="550" />
+<SubTexture name="Dono mic0003" x="1433" y="1278" width="523" height="551" frameX="0" frameY="0" frameWidth="524" frameHeight="550" />
+<SubTexture name="Dono mic0004" x="1956" y="1278" width="521" height="548" frameX="0" frameY="-4" frameWidth="524" frameHeight="550" />
+<SubTexture name="Dono mic0005" x="570" y="1850" width="521" height="546" frameX="0" frameY="-5" frameWidth="524" frameHeight="550" />
+</TextureAtlas>

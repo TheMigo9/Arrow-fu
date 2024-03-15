@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BIDU_GOLD_HIT.png">
+<SubTexture name="BIDU idle dance0000" x="2327" y="1253" width="367" height="406" frameX="0" frameY="-19" frameWidth="378" frameHeight="421" />
+<SubTexture name="BIDU idle dance0001" x="2327" y="840" width="362" height="413" frameX="-3" frameY="-12" frameWidth="378" frameHeight="421" />
+<SubTexture name="BIDU idle dance0002" x="840" y="1497" width="377" height="425" frameX="-4" frameY="0" frameWidth="378" frameHeight="421" />
+<SubTexture name="BIDU idle dance0003" x="1217" y="1497" width="377" height="425" frameX="-4" frameY="0" frameWidth="378" frameHeight="421" />
+<SubTexture name="BIDU NOTE DOWN0000" x="1585" y="1923" width="383" height="377" frameX="0" frameY="-9" frameWidth="379" frameHeight="383" />
+<SubTexture name="BIDU NOTE DOWN0001" x="825" y="1923" width="370" height="386" frameX="-6" frameY="0" frameWidth="379" frameHeight="383" />
+<SubTexture name="BIDU NOTE DOWN MISS0000" x="1195" y="1923" width="390" height="382" frameX="0" frameY="-8" frameWidth="386" frameHeight="386" />
+<SubTexture name="BIDU NOTE DOWN MISS0001" x="445" y="1923" width="380" height="390" frameX="-5" frameY="0" frameWidth="386" frameHeight="386" />
+<SubTexture name="BIDU NOTE LEFT0000" x="0" y="1497" width="421" height="426" frameX="0" frameY="0" frameWidth="419" frameHeight="422" />
+<SubTexture name="BIDU NOTE LEFT0001" x="421" y="1497" width="419" height="426" frameX="-4" frameY="0" frameWidth="419" frameHeight="422" />
+<SubTexture name="BIDU NOTE LEFT MISS0000" x="1883" y="431" width="420" height="430" frameX="0" frameY="0" frameWidth="417" frameHeight="426" />
+<SubTexture name="BIDU NOTE LEFT MISS0001" x="1883" y="861" width="416" height="430" frameX="-5" frameY="0" frameWidth="417" frameHeight="426" />
+<SubTexture name="BIDU NOTE RIGHT0000" x="0" y="1923" width="445" height="418" frameX="-2" frameY="-1" frameWidth="443" frameHeight="415" />
+<SubTexture name="BIDU NOTE RIGHT0001" x="2327" y="421" width="440" height="419" frameX="0" frameY="0" frameWidth="443" frameHeight="415" />
+<SubTexture name="BIDU NOTE RIGHT MISS0000" x="2327" y="0" width="442" height="421" frameX="-1" frameY="-2" frameWidth="440" frameHeight="419" />
+<SubTexture name="BIDU NOTE RIGHT MISS0001" x="1594" y="1497" width="441" height="423" frameX="0" frameY="0" frameWidth="440" frameHeight="419" />
+<SubTexture name="BIDU NOTE UP0000" x="345" y="541" width="428" height="479" frameX="0" frameY="0" frameWidth="425" frameHeight="475" />
+<SubTexture name="BIDU NOTE UP0001" x="1033" y="479" width="422" height="472" frameX="-4" frameY="-7" frameWidth="425" frameHeight="475" />
+<SubTexture name="BIDU NOTE UP MISS0000" x="0" y="1026" width="429" height="471" frameX="-1" frameY="-1" frameWidth="429" frameHeight="468" />
+<SubTexture name="BIDU NOTE UP MISS0001" x="429" y="1026" width="433" height="462" frameX="0" frameY="-10" frameWidth="429" frameHeight="468" />
+<SubTexture name="BIDU idle dance0004" x="2327" y="1253" width="367" height="406" frameX="0" frameY="-19" frameWidth="378" frameHeight="421" />
+<SubTexture name="BIDU idle dance0005" x="2327" y="840" width="362" height="413" frameX="-3" frameY="-12" frameWidth="378" frameHeight="421" />
+<SubTexture name="BIDU idle dance0006" x="840" y="1497" width="377" height="425" frameX="-4" frameY="0" frameWidth="378" frameHeight="421" />
+<SubTexture name="BIDU idle dance0007" x="1217" y="1497" width="377" height="425" frameX="-4" frameY="0" frameWidth="378" frameHeight="421" />
+<SubTexture name="BIDU BEATBOX UP0000" x="1033" y="0" width="428" height="479" frameX="0" frameY="0" frameWidth="425" frameHeight="475" />
+<SubTexture name="BIDU BEATBOX UP0001" x="1461" y="0" width="422" height="472" frameX="-4" frameY="-7" frameWidth="425" frameHeight="475" />
+<SubTexture name="BIDU DAMAGE0000" x="537" y="0" width="496" height="533" frameX="-10" frameY="-8" frameWidth="550" frameHeight="537" />
+<SubTexture name="BIDU DAMAGE0001" x="0" y="0" width="537" height="541" frameX="-1" frameY="0" frameWidth="550" frameHeight="537" />
+<SubTexture name="BIDU DAMAGE0002" x="1238" y="1026" width="444" height="432" frameX="0" frameY="-109" frameWidth="550" frameHeight="537" />
+<SubTexture name="BIDU DAMAGE0003" x="1883" y="0" width="444" height="431" frameX="0" frameY="-110" frameWidth="550" frameHeight="537" />
+<SubTexture name="BIDU NOTE UP DODGE0000" x="0" y="541" width="345" height="485" frameX="-7" frameY="-50" frameWidth="398" frameHeight="683" />
+<SubTexture name="BIDU NOTE UP DODGE0001" x="862" y="1026" width="376" height="451" frameX="0" frameY="0" frameWidth="398" frameHeight="683" />
+<SubTexture name="BIDU NOTE UP DODGE0002" x="1461" y="472" width="373" height="458" frameX="-1" frameY="-4" frameWidth="398" frameHeight="683" />
+</TextureAtlas>

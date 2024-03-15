@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="KIDS_HAPPY.png">
+<SubTexture name="spooky dance idle0000" x="2451" y="0" width="499" height="662" frameX="-5" frameY="-9" frameWidth="521" frameHeight="671" />
+<SubTexture name="spooky dance idle0001" x="1628" y="1464" width="510" height="663" frameX="-3" frameY="-7" frameWidth="521" frameHeight="671" />
+<SubTexture name="spooky dance idle0002" x="1114" y="1464" width="514" height="671" frameX="-7" frameY="0" frameWidth="521" frameHeight="671" />
+<SubTexture name="spooky dance idle0003" x="1295" y="771" width="501" height="670" frameX="-13" frameY="0" frameWidth="521" frameHeight="671" />
+<SubTexture name="spooky down0000" x="1573" y="2139" width="543" height="551" frameX="0" frameY="-16" frameWidth="544" frameHeight="568" />
+<SubTexture name="spooky down0001" x="510" y="2139" width="530" height="568" frameX="-6" frameY="0" frameWidth="544" frameHeight="568" />
+<SubTexture name="spooky down0002" x="1040" y="2139" width="533" height="568" frameX="-4" frameY="0" frameWidth="544" frameHeight="568" />
+<SubTexture name="spooky left0000" x="1799" y="689" width="565" height="682" frameX="0" frameY="0" frameWidth="568" frameHeight="683" />
+<SubTexture name="spooky left0001" x="0" y="1464" width="559" height="675" frameX="-9" frameY="-7" frameWidth="568" frameHeight="683" />
+<SubTexture name="spooky left0002" x="559" y="1464" width="555" height="673" frameX="-11" frameY="-9" frameWidth="568" frameHeight="683" />
+<SubTexture name="spooky right0000" x="0" y="771" width="640" height="693" frameX="-22" frameY="0" frameWidth="662" frameHeight="693" />
+<SubTexture name="spooky right0001" x="640" y="771" width="655" height="690" frameX="0" frameY="-3" frameWidth="662" frameHeight="693" />
+<SubTexture name="spooky right0002" x="1799" y="0" width="652" height="689" frameX="0" frameY="-3" frameWidth="662" frameHeight="693" />
+<SubTexture name="spooky scary0000" x="0" y="2139" width="510" height="643" frameX="-9" frameY="-5" frameWidth="521" frameHeight="649" />
+<SubTexture name="spooky scary0001" x="0" y="2139" width="510" height="643" frameX="-9" frameY="-5" frameWidth="521" frameHeight="649" />
+<SubTexture name="spooky up0000" x="0" y="0" width="594" height="771" frameX="-9" frameY="0" frameWidth="603" frameHeight="772" />
+<SubTexture name="spooky up0001" x="594" y="0" width="602" height="764" frameX="-1" frameY="-7" frameWidth="603" frameHeight="772" />
+<SubTexture name="spooky up0002" x="1196" y="0" width="603" height="761" frameX="0" frameY="-11" frameWidth="603" frameHeight="772" />
+</TextureAtlas>

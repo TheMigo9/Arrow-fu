@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SALSICHA_BOMBADO.png">
+<SubTexture name="Salsicha Down0000" x="970" y="3027" width="1015" height="809" frameX="0" frameY="-11" frameWidth="1015" frameHeight="820" />
+<SubTexture name="Salsicha Down0001" x="0" y="3027" width="970" height="814" frameX="-24" frameY="-6" frameWidth="1015" frameHeight="820" />
+<SubTexture name="Salsicha Left0000" x="1135" y="2122" width="1193" height="902" frameX="-15" frameY="-8" frameWidth="1212" frameHeight="913" />
+<SubTexture name="Salsicha Left0001" x="2809" y="0" width="1173" height="910" frameX="-38" frameY="-5" frameWidth="1212" frameHeight="913" />
+<SubTexture name="Salsicha Right0000" x="0" y="1185" width="984" height="937" frameX="-11" frameY="-54" frameWidth="1012" frameHeight="993" />
+<SubTexture name="Salsicha Right0001" x="1846" y="0" width="963" height="984" frameX="-11" frameY="-8" frameWidth="1012" frameHeight="993" />
+<SubTexture name="Salsicha Up0000" x="0" y="0" width="905" height="1185" frameX="-29" frameY="-1" frameWidth="975" frameHeight="1185" />
+<SubTexture name="Salsicha Up0001" x="905" y="0" width="941" height="1145" frameX="0" frameY="-39" frameWidth="975" frameHeight="1185" />
+<SubTexture name="Salsicha Idle0000" x="2328" y="2122" width="1111" height="892" frameX="-16" frameY="-17" frameWidth="1153" frameHeight="913" />
+<SubTexture name="Salsicha Idle0001" x="984" y="1185" width="1137" height="913" frameX="-16" frameY="2" frameWidth="1153" frameHeight="913" />
+<SubTexture name="Salsicha Idle0002" x="2809" y="910" width="1147" height="909" frameX="-3" frameY="-1" frameWidth="1153" frameHeight="913" />
+<SubTexture name="Salsicha Idle0003" x="0" y="2122" width="1135" height="905" frameX="-9" frameY="-5" frameWidth="1153" frameHeight="913" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SALSICHA.png">
+<SubTexture name="Salsicha Down0000" x="2413" y="1933" width="681" height="779" frameX="-2" frameY="-9" frameWidth="683" frameHeight="789" />
+<SubTexture name="Salsicha Down0001" x="1746" y="1933" width="667" height="787" frameX="0" frameY="-1" frameWidth="683" frameHeight="789" />
+<SubTexture name="Salsicha Idle0000" x="1097" y="997" width="559" height="929" frameX="-1" frameY="-8" frameWidth="575" frameHeight="938" />
+<SubTexture name="Salsicha Idle0001" x="1286" y="0" width="546" height="936" frameX="0" frameY="-1" frameWidth="575" frameHeight="938" />
+<SubTexture name="Salsicha Idle0002" x="1832" y="0" width="544" height="936" frameX="0" frameY="-1" frameWidth="575" frameHeight="938" />
+<SubTexture name="Salsicha Idle0003" x="0" y="997" width="538" height="936" frameX="0" frameY="0" frameWidth="575" frameHeight="938" />
+<SubTexture name="Salsicha Left0000" x="1025" y="1933" width="721" height="842" frameX="0" frameY="-14" frameWidth="722" frameHeight="857" />
+<SubTexture name="Salsicha Left0001" x="2376" y="888" width="705" height="853" frameX="-11" frameY="-3" frameWidth="722" frameHeight="857" />
+<SubTexture name="Salsicha Right0000" x="0" y="1933" width="1025" height="878" frameX="0" frameY="-19" frameWidth="1039" frameHeight="898" />
+<SubTexture name="Salsicha Right0001" x="2376" y="0" width="988" height="888" frameX="-2" frameY="-9" frameWidth="1039" frameHeight="898" />
+<SubTexture name="Salsicha Up0000" x="0" y="0" width="623" height="997" frameX="-25" frameY="0" frameWidth="680" frameHeight="998" />
+<SubTexture name="Salsicha Up0001" x="623" y="0" width="663" height="976" frameX="-3" frameY="-21" frameWidth="680" frameHeight="998" />
+<SubTexture name="Salsicha Risada0000" x="1656" y="997" width="561" height="926" frameX="0" frameY="0" frameWidth="576" frameHeight="931" />
+<SubTexture name="Salsicha Risada0001" x="538" y="997" width="559" height="930" frameX="0" frameY="0" frameWidth="576" frameHeight="931" />
+</TextureAtlas>

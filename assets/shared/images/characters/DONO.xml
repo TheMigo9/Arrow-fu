@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DONO.png">
+<SubTexture name="Down Note0000" x="1684" y="1031" width="514" height="504" frameX="0" frameY="0" frameWidth="526" frameHeight="506" />
+<SubTexture name="Down Note0001" x="1684" y="526" width="514" height="505" frameX="0" frameY="1" frameWidth="526" frameHeight="506" />
+<SubTexture name="Idle Dance0000" x="0" y="1150" width="519" height="528" frameX="2" frameY="-8" frameWidth="538" frameHeight="537" />
+<SubTexture name="Idle Dance0001" x="1046" y="1150" width="518" height="526" frameX="1" frameY="-11" frameWidth="538" frameHeight="537" />
+<SubTexture name="Idle Dance0002" x="578" y="611" width="514" height="537" frameX="-1" frameY="0" frameWidth="538" frameHeight="537" />
+<SubTexture name="Idle Dance0003" x="1092" y="611" width="514" height="537" frameX="-1" frameY="0" frameWidth="538" frameHeight="537" />
+<SubTexture name="NOTE LEFT0000" x="519" y="1150" width="527" height="527" frameX="-1" frameY="1" frameWidth="531" frameHeight="528" />
+<SubTexture name="NOTE LEFT0001" x="1684" y="0" width="515" height="526" frameX="-11" frameY="0" frameWidth="531" frameHeight="528" />
+<SubTexture name="Note Right0000" x="1098" y="0" width="586" height="539" frameX="0" frameY="0" frameWidth="586" frameHeight="539" />
+<SubTexture name="Note Right0001" x="0" y="611" width="578" height="539" frameX="0" frameY="0" frameWidth="586" frameHeight="539" />
+<SubTexture name="Up note0000" x="0" y="0" width="549" height="611" frameX="0" frameY="0" frameWidth="564" frameHeight="611" />
+<SubTexture name="Up note0001" x="549" y="0" width="549" height="601" frameX="0" frameY="-9" frameWidth="564" frameHeight="611" />
+</TextureAtlas>

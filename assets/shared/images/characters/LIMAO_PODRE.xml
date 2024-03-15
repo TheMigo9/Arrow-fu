@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LIMAO_PODRE.png">
+<SubTexture name="LEMON Static0000" x="0" y="833" width="1310" height="830" frameX="0" frameY="-1" frameWidth="1321" frameHeight="845" />
+<SubTexture name="LEMON Dancing Beat0000" x="0" y="833" width="1310" height="830" frameX="-2" frameY="-1" frameWidth="1321" frameHeight="845" />
+<SubTexture name="LEMON Dancing Beat0001" x="0" y="0" width="1312" height="833" frameX="0" frameY="-7" frameWidth="1321" frameHeight="845" />
+<SubTexture name="LEMON Dancing Beat0002" x="1312" y="0" width="1315" height="831" frameX="3" frameY="-18" frameWidth="1321" frameHeight="845" />
+<SubTexture name="LEMON Dancing Beat0003" x="1313" y="1663" width="1314" height="819" frameX="1" frameY="-31" frameWidth="1321" frameHeight="845" />
+<SubTexture name="LEMON Dancing Beat0004" x="2627" y="809" width="1314" height="808" frameX="2" frameY="-42" frameWidth="1321" frameHeight="845" />
+<SubTexture name="LEMON Dancing Beat0005" x="2627" y="1617" width="1314" height="789" frameX="3" frameY="-61" frameWidth="1321" frameHeight="845" />
+<SubTexture name="LEMON Dancing Beat0006" x="0" y="3279" width="1318" height="768" frameX="1" frameY="-78" frameWidth="1321" frameHeight="845" />
+<SubTexture name="LEMON Dancing Beat0007" x="2635" y="3279" width="1318" height="759" frameX="-1" frameY="-82" frameWidth="1321" frameHeight="845" />
+<SubTexture name="LEMON Dancing Beat0008" x="1318" y="3279" width="1317" height="760" frameX="-5" frameY="-79" frameWidth="1321" frameHeight="845" />
+<SubTexture name="LEMON Dancing Beat0009" x="3941" y="0" width="1313" height="770" frameX="-7" frameY="-72" frameWidth="1321" frameHeight="845" />
+<SubTexture name="LEMON Dancing Beat0010" x="1316" y="2483" width="1313" height="780" frameX="-7" frameY="-61" frameWidth="1321" frameHeight="845" />
+<SubTexture name="LEMON Dancing Beat0011" x="0" y="2483" width="1316" height="796" frameX="-6" frameY="-46" frameWidth="1321" frameHeight="845" />
+<SubTexture name="LEMON Dancing Beat0012" x="2627" y="0" width="1314" height="809" frameX="-5" frameY="-28" frameWidth="1321" frameHeight="845" />
+<SubTexture name="LEMON Dancing Beat0013" x="0" y="1663" width="1313" height="820" frameX="-4" frameY="-13" frameWidth="1321" frameHeight="845" />
+<SubTexture name="LEMON Dancing Beat0014" x="1310" y="833" width="1310" height="821" frameX="-3" frameY="-8" frameWidth="1321" frameHeight="845" />
+</TextureAtlas>
