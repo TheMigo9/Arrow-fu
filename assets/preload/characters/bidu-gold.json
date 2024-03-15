@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "idle",
+			"loop": false,
+			"name": "BIDU idle dance"
+		},
+		{
+			"offsets": [
+				55,
+				0
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BIDU NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-1,
+				-39
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BIDU NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-16,
+				49
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BIDU NOTE UP0"
+		},
+		{
+			"offsets": [
+				-9,
+				-8
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BIDU NOTE RIGHT0"
+		},
+		{
+			"offsets": [
+				54,
+				3
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BIDU NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				3,
+				-35
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BIDU NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-17,
+				44
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BIDU NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-5,
+				-5
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BIDU NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-2,
+				-23
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "hey",
+			"loop": false,
+			"name": "BIDU HEY"
+		},
+		{
+			"offsets": [
+				0,
+				-40
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "BIDU BEATBOX DOWN0"
+		},
+		{
+			"offsets": [
+				-21,
+				50
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "BIDU BEATBOX UP0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BIDU_GOLD",
+	"position": [
+		70,
+		350
+	],
+	"healthicon": "bidu",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		80,
+		135
+	],
+	"camera_position": [
+		0,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

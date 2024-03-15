@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 9,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle Dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-14
+			],
+			"fps": 9,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NOTE LEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				4
+			],
+			"fps": 9,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Note Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				72
+			],
+			"fps": 9,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-35
+			],
+			"fps": 9,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Note0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DONO",
+	"position": [
+		-60,
+		210
+	],
+	"healthicon": "dono",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		100,
+		80
+	],
+	"camera_position": [
+		20,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				85,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BIDU Dead confirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				29
+			],
+			"anim": "firstDeath",
+			"fps": 9,
+			"name": "BIDU dies",
+			"indices": []
+		},
+		{
+			"offsets": [
+				46,
+				-4
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "BIDU Dead Loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BIDU_SPOOKY_VIRUS",
+	"position": [
+		70,
+		350
+	],
+	"healthicon": "bidu",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		85,
+		175
+	],
+	"camera_position": [
+		-10,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

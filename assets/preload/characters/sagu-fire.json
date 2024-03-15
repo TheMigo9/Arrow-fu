@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				138,
+				-49
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sagu Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				20,
+				-62
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sagu Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-7,
+				51
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sagu Sing Note UP"
+		},
+		{
+			"offsets": [
+				-1,
+				4
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sagu Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "idle",
+			"loop": false,
+			"name": "Sagu idle dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SAGU_FIRE",
+	"position": [
+		-70,
+		0
+	],
+	"healthicon": "sagufire",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		75,
+		135
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

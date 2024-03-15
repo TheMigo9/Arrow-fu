@@ -1,0 +1,62 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 20,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "LEMON Dancing Beat"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"fps": 20,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "LEMON Dancing Beat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LIMAO_PODRE",
+	"position": [
+		-334,
+		-112
+	],
+	"healthicon": "virus",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		200,
+		80
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

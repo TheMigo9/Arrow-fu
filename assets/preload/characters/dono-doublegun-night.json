@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				27
+			],
+			"anim": "singUP-shoot",
+			"fps": 24,
+			"name": "Dono Note Up shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-2
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "idle",
+			"loop": false,
+			"name": "Dono Idle Dance"
+		},
+		{
+			"offsets": [
+				73,
+				-19
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "fail",
+			"loop": false,
+			"name": "Dono Fail"
+		},
+		{
+			"offsets": [
+				-24,
+				3
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "out",
+			"loop": false,
+			"name": "Dono Out"
+		},
+		{
+			"offsets": [
+				-2,
+				-15
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Dono NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Dono Note Right0"
+		},
+		{
+			"offsets": [
+				3,
+				71
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Dono Up note0"
+		},
+		{
+			"offsets": [
+				-20,
+				-37
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Dono Down Note0"
+		},
+		{
+			"offsets": [
+				-17,
+				8
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "mic",
+			"loop": false,
+			"name": "Dono mic"
+		},
+		{
+			"offsets": [
+				47,
+				121
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "hey",
+			"loop": false,
+			"name": "Dono hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DONO_DOUBLEGUN_NIGHT",
+	"position": [
+		-63,
+		208
+	],
+	"healthicon": "donoangry",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		80,
+		100
+	],
+	"camera_position": [
+		-52,
+		52
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

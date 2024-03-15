@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				-2
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dono Idle Dance"
+		},
+		{
+			"offsets": [
+				74,
+				-19
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "fail",
+			"indices": [],
+			"name": "Dono Fail"
+		},
+		{
+			"offsets": [
+				-25,
+				3
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "out",
+			"indices": [],
+			"name": "Dono Out"
+		},
+		{
+			"offsets": [
+				-2,
+				-15
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dono NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-11,
+				71
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dono Up note0"
+		},
+		{
+			"offsets": [
+				-20,
+				-37
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dono Down Note0"
+		},
+		{
+			"offsets": [
+				-21,
+				-36
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "singUP-shoot",
+			"indices": [],
+			"name": "Dono Note Up shoot"
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Dono NOTE RIGHT0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DONO_GUN_DARK",
+	"position": [
+		-64,
+		208
+	],
+	"healthicon": "dono",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		100,
+		80
+	],
+	"camera_position": [
+		-30,
+		55
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

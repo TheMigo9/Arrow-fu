@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-57,
+				-141
+			],
+			"loop": true,
+			"fps": 15,
+			"anim": "chao",
+			"indices": [],
+			"name": "Sagu end animation0"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "chao2",
+			"indices": [],
+			"name": "Sagu mic throw0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SAGU_FIRE_END",
+	"position": [
+		-120,
+		-80
+	],
+	"healthicon": "sagufire",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		75,
+		135
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

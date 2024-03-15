@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				50
+			],
+			"loop": false,
+			"anim": "cheer",
+			"fps": 24,
+			"name": "BARBARA Cheer",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-8
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "danceRight",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "BARBARA Dancing Beat"
+		},
+		{
+			"offsets": [
+				0,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "BARBARA Dancing Beat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BARBARA_CHOCOLATE_SUNSET",
+	"position": [
+		-40,
+		0
+	],
+	"healthicon": "barbara",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

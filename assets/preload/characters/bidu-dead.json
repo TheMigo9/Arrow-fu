@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				30
+			],
+			"anim": "firstDeath",
+			"fps": 6,
+			"name": "BIDU dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				74
+			],
+			"anim": "deathConfirm",
+			"fps": 6,
+			"name": "BIDU Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				51,
+				-3
+			],
+			"anim": "deathLoop",
+			"fps": 6,
+			"name": "BIDU Dead Loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BIDU_GOLD_DEAD",
+	"position": [
+		70,
+		350
+	],
+	"healthicon": "bidu",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		80,
+		135
+	],
+	"camera_position": [
+		0,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
